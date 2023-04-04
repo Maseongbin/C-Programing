@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\미래모빌리티공학과\모빌리티프로그래밍\202315006_SeongBinMA\Physics_Trainer_Chap2\Physics_Trainer_Chap2\main.cpp(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\미래모빌리티공학과\모빌리티프로그래밍\202315006_SeongBinMA\Physics_Trainer_Chap2\Physics_Trainer_Chap2\main.cpp(24,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\미래모빌리티공학과\모빌리티프로그래밍\202315006_SeongBinMA\Physics_Trainer_Chap2\Physics_Trainer_Chap2\main.cpp(39,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\미래모빌리티공학과\모빌리티프로그래밍\202315006_SeongBinMA\Physics_Trainer_Chap2\Physics_Trainer_Chap2\main.cpp(57,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  Physics_Trainer_Chap2.vcxproj -> C:\미래모빌리티공학과\모빌리티프로그래밍\202315006_SeongBinMA\Physics_Trainer_Chap2\x64\Debug\Physics_Trainer_Chap2.exe
