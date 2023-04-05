@@ -1,0 +1,41 @@
+7. 
+#include <stdio.h>
+int main(void)
+{
+	int i = -3, j = 2, k =0, m;
+	m = ++i && ++j && ++k;
+	printf(" % d, % d, % d, % d\n", i, j, k, m);
+}
+
+결과: -2. 3, 1, 1
+
+8.
+#include <stdio.h>
+int main(void)
+{
+	float a = 0.7;
+	printf("%d\n", a == 0.7);
+}
+결과: 실수형 자료 float으로 정의를 했는데 정수값 %d로 계산하면서 소수점 뒷자리를 버리게 되어서 0이 나오게 된다.
+
+9.
+#include <stdio.h>
+int main(void)
+{
+	int x = 4, y, z;
+	y = --x;
+	z = x--;
+	printf("%d, %d, %d\n", x, y, z);
+}
+결과: 2, 3, 3
+
+13. 
+#include <stdio.h>
+int main(void)
+{
+	int a = 100, b = 200, c;
+	c = (a == 100 || b > 200);
+	printf("%d\n", c);
+	return 0;
+}
+결과: 1
