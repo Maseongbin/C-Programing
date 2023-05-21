@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Desktop\202315006_MASeongBin\20230521\Physics_Trainer_chap2_17\main.cpp(47,16): warning C4477: 'printf' : 서식 문자열 '%6.2lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t (__cdecl *)(time_t *const )'입니다.
+C:\Users\user\Desktop\202315006_MASeongBin\20230521\Physics_Trainer_chap2_17\main.cpp(54,16): warning C4477: 'printf' : 서식 문자열 '%6.2lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t (__cdecl *)(time_t *const )'입니다.
+C:\Users\user\Desktop\202315006_MASeongBin\20230521\Physics_Trainer_chap2_17\main.cpp(26,12): warning C4101: 'displacement' :참조되지 않은 지역 변수입니다.
+  Physics_Trainer_chap2_17.vcxproj -> C:\Users\user\Desktop\202315006_MASeongBin\20230521\Physics_Trainer_chap2_17\x64\Debug\Physics_Trainer_chap2_17.exe
