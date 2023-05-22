@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\마성빈\Physics_Trainer_chap2\20230522\Physics_Trainer-chap2_17\Physics_Trainer-chap2_17\main.cpp(48,16): warning C4477: 'printf' : 서식 문자열 '%6.2lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t (__cdecl *)(time_t *const )'입니다.
-  Physics_Trainer-chap2_17.vcxproj -> C:\마성빈\Physics_Trainer_chap2\20230522\Physics_Trainer-chap2_17\x64\Debug\Physics_Trainer-chap2_17.exe
