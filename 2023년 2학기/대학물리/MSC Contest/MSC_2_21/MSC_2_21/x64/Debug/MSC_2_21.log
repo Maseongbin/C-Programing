@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\MA\Desktop\MSC_2_21\MSC_2_21\main.cpp(18,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MSC_2_21.vcxproj -> C:\Users\MA\Desktop\MSC_2_21\x64\Debug\MSC_2_21.exe
