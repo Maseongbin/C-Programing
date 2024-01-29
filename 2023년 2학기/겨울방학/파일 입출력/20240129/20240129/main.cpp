@@ -1,20 +1,19 @@
 #define _CRT_SECURE_NO_WARNINGS
-#define MAX_LEN 100
 #include <stdio.h>
 
 /*
-// ÆÄÀÏ Ãâ·Â
+// íŒŒì¼ ì¶œë ¥
 int main()
 {
     FILE* fs;
     fs = fopen("test1.txt", "w");
-    fputs("¾È³çÇÏ¼¼¿ä. ¸¶¼ººóÀÔ´Ï´Ù.", fs);
+    fputs("ì•ˆë…•í•˜ì„¸ìš”. ë§ˆì„±ë¹ˆì…ë‹ˆë‹¤.", fs);
     fclose(fs);
 }
 */
 
 /*
-//  ÆÄÀÏ ÀÔ·Â
+//  íŒŒì¼ ì…ë ¥
 int main()
 {
     char str[100];
