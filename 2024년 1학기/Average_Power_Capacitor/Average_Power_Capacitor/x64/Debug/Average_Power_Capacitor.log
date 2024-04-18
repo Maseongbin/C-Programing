@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Average_Power_Capacitor\Average_Power_Capacitor\main.cpp(8,12): warning C4101: 'radian' :참조되지 않은 지역 변수입니다.
+  Average_Power_Capacitor.vcxproj -> C:\Users\user\Desktop\Average_Power_Capacitor\x64\Debug\Average_Power_Capacitor.exe
